@@ -16,4 +16,4 @@ Type 5: similar to type 4 but 2 video ads appear in row and not only one
 Type 6: unskippable 10-second-must-be-watched video ad
 
 
-To use: open chrome-->search chrome://extensions/ -->click on Developer mode-->click Load unpacked-->select folder
+**To use: open chrome-->search chrome://extensions/ -->click on Developer mode-->click Load unpacked-->select folder**
