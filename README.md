@@ -1,3 +1,10 @@
+# NOTE
+**HI Guys I can't provide full code because it is published by me on Chrome Extension Store and can be copied! The full code is avaliable in my Private repo**
+**If you are interested and want to contribute Then DM me I will give you Access to private Repo which contains full code.😊**
+
+
+
+
 # YT-adblock-Chrome-extension
 **Youtube Ad Blocker Chrome Extension made using Javascript**
 
