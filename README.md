@@ -2,6 +2,7 @@
 **👋HI Guys What you see here is sample code can't provide full code because it is published by me on Chrome Extension Store and can be copied! The full code is avaliable in my Private repo at: https://github.com/parmishh/YT-ADS-Block-FullVersion**
 **If you are interested and want to contribute Then DM me I will give you Access to private Repo which contains full code.😊**
 
+<img width="227" alt="sn1" src="https://user-images.githubusercontent.com/91942072/222827395-fb84dac0-aae8-4a64-ae0d-218b2edaca74.PNG">
 
 
 
